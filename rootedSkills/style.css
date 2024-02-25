@@ -1,0 +1,7 @@
+.hero{
+    background: #86efac;
+    color: black;
+    font-size: 50px;
+    padding: 20px 0px;
+    cursor: url('cursor.png');
+}
